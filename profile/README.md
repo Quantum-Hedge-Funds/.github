@@ -1,5 +1,7 @@
 # Quantum Hedge Fund
 
+![Quantum Oracles](/assets/Quantum%20Hedge%20Fund.001.jpeg)
+
 ## Overview
 Quantum Hedge Fund is an innovative blockchain project designed to transform the decentralized finance (DeFi) landscape. Utilizing the Ethereum blockchain, it implements advanced fund management strategies. This project features smart contracts for managing a cryptocurrency vault, integrating Chainlink oracles for accurate pricing and Uniswap for token exchanges.
 
