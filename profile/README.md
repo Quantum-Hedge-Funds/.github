@@ -3,7 +3,7 @@
 ![Quantum Oracles](/assets/Quantum%20Hedge%20Fund.001.jpeg)
 
 ## Overview
-Quantum Hedge Fund is an innovative blockchain project designed to transform the decentralized finance (DeFi) landscape. Utilizing the Ethereum blockchain, it implements advanced fund management strategies. This project features smart contracts for managing a cryptocurrency vault, integrating Chainlink oracles for accurate pricing and Uniswap for token exchanges.
+Quantum Hedge Fund is an on-chain hedge fund powered by Chainlink that implements advanced fund management strategies by using a quantum algorithm for portfolio diversification. This project features smart contracts for managing a cryptocurrency vault, integrating Chainlink oracles for accurate pricing and Quickswap for token exchanges.
 
 ## Features
 - **Token Management**: Support for a diverse range of cryptocurrencies, enabling dynamic adjustments to the portfolio.
@@ -11,11 +11,41 @@ Quantum Hedge Fund is an innovative blockchain project designed to transform the
 - **Deposits and Withdrawals**: Robust mechanisms for depositing and withdrawing funds.
 - **Automated Rebalancing**: Portfolio rebalancing executed based on strategies defined in the `FundManager` contract.
 - **Chainlink and Uniswap Integration**: Ensures reliable price feeds and efficient liquidity management.
+- **Quantum portfolio diversification**: unique and advanced fund strategy based on a quantum algorithm
 
 ## Components
+
+![Quantum Oracles](/assets/Quantum%20Hedge%20Fund.006.jpeg)
+
+### Smart Contracts:
 1. **Vault Contract**: Manages core functions such as deposits, withdrawals, and rebalancing.
 2. **FundManager Contract**: Oversees token weights and handles oracle requests for portfolio management.
 3. **VaultShareToken Contract**: ERC20 token representing a stake in the vault.
+
+### Chainlink:
+- Datafeed: calculating the total value of the pool 
+- Functions: retrieving allocations from the quantum oracle
+- Automation: initiating rebalancing of assets
+
+### Quantum Computing API:
+- Send asset prices to the API and choose algorithm to run (quantum or quantum-inspired)
+- Runs quantum algorithm with asset prices
+- Sends optimal selection of assets from quantum algorithm
+- Draws diagram of quantum program and plots optimisation
+- Deployed at URL
+
+### User Interface:
+- User can deposit funds
+- User can withdraw funds
+- Visual representation of the asset allocations
+
+## Tech Stack
+
+![Quantum Oracles](/assets/Quantum%20Hedge%20Fund.007.jpeg)
+
+## Architecture
+
+[Architecture and Data Flow Diagram]((https://miro.com/app/board/uXjVNMuQcEs=/?share_link_id=337500651416))
 
 ## Getting Started
 Engaging with Quantum Hedge Fund requires familiarity with Solidity, Ethereum blockchain, and smart contract development.
