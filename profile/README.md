@@ -50,14 +50,16 @@ Quantum Hedge Fund is an on-chain hedge fund powered by Chainlink that implement
 ## Links
 
 ### Technical Links
-Github: [https://github.com/Quantum-Hedge-Funds](https://github.com/Quantum-Hedge-Funds)
-App: [https://quantum-hedge-fund-app.vercel.app/](https://quantum-hedge-fund-app.vercel.app/)
-API: [https://api-production-5752.up.railway.app/](https://api-production-5752.up.railway.app/)
+- Github: [https://github.com/Quantum-Hedge-Funds](https://github.com/Quantum-Hedge-Funds)
+- App: [https://quantum-hedge-fund-app.vercel.app/](https://quantum-hedge-fund-app.vercel.app/)
+- API: [https://api-production-5752.up.railway.app/](https://api-production-5752.up.railway.app/)
 
 ### Presentation Links
-Video demo: [https://youtu.be/6QXWxM5b-Pg](https://youtu.be/6QXWxM5b-Pg)
-Presentation: [https://bit.ly/quantum-fund-presentation](https://bit.ly/quantum-fund-presentation)
-Architecture Diagram: [https://bit.ly/quantum-fund-diagram](https://bit.ly/quantum-fund-diagram)
+- Video demo: [https://youtu.be/6QXWxM5b-Pg](https://youtu.be/6QXWxM5b-Pg)
+- Presentation: [https://bit.ly/quantum-fund-presentation](https://bit.ly/quantum-fund-presentation)
+- Architecture Diagram: [https://bit.ly/quantum-fund-diagram](https://bit.ly/quantum-fund-diagram)
+
+![Quantum Oracles](/assets/Quantum%20Hedge%20Fund.014.jpeg)
 
 ## Getting Started
 Engaging with Quantum Hedge Fund requires familiarity with Solidity, Ethereum blockchain, and smart contract development.
