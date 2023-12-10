@@ -15,8 +15,6 @@ Quantum Hedge Fund is an on-chain hedge fund powered by Chainlink that implement
 
 ## Components
 
-![Quantum Oracles](/assets/Quantum%20Hedge%20Fund.006.jpeg)
-
 ### Chainlink:
 - Datafeed: calculating the total value of the pool 
 - Functions: retrieving allocations from the quantum oracle
@@ -38,6 +36,8 @@ Quantum Hedge Fund is an on-chain hedge fund powered by Chainlink that implement
 - User can deposit funds
 - User can withdraw funds
 - Visual representation of the asset allocations
+
+![Quantum Oracles](/assets/Quantum%20Hedge%20Fund.006.jpeg)
 
 ## Tech Stack
 
