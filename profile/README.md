@@ -17,15 +17,15 @@ Quantum Hedge Fund is an on-chain hedge fund powered by Chainlink that implement
 
 ![Quantum Oracles](/assets/Quantum%20Hedge%20Fund.006.jpeg)
 
-### Smart Contracts:
-1. **Vault Contract**: Manages core functions such as deposits, withdrawals, and rebalancing.
-2. **FundManager Contract**: Oversees token weights and handles oracle requests for portfolio management.
-3. **VaultShareToken Contract**: ERC20 token representing a stake in the vault.
-
 ### Chainlink:
 - Datafeed: calculating the total value of the pool 
 - Functions: retrieving allocations from the quantum oracle
 - Automation: initiating rebalancing of assets
+
+### Smart Contracts:
+1. **Vault Contract**: Manages core functions such as deposits, withdrawals, and rebalancing.
+2. **FundManager Contract**: Oversees token weights and handles oracle requests for portfolio management.
+3. **VaultShareToken Contract**: ERC20 token representing a stake in the vault.
 
 ### Quantum Computing API:
 - Send asset prices to the API and choose algorithm to run (quantum or quantum-inspired)
