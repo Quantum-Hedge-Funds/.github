@@ -41,9 +41,20 @@ Quantum Hedge Fund is an on-chain hedge fund powered by Chainlink that implement
 
 ## Tech Stack
 
+- Chainlink Functions: Fetching the asset prices and sending them to the quantum oracle and receiving the results
+- Chainlink Datafeed: Fetching the prices of each asset real-time on the smart contract
+- Chainlink Automation: Rebalancing the allocation of the assets every day
+- Polygon: deployed on Polygon mainnet
+- Quickswap: Exchange for rebalancing the assets
+- Qiskit: Quantum computing software development kit for running the quantum algorithm 
+
 ![Quantum Oracles](/assets/Quantum%20Hedge%20Fund.005.jpeg)
 
 ## Quantum Algorithm
+
+The algorithm is based on the Qiskit Portfolio Diversification algorithm: [https://qiskit.org/ecosystem/finance/tutorials/02_portfolio_diversification.html](https://qiskit.org/ecosystem/finance/tutorials/02_portfolio_diversification.html)
+
+We modified the algorithm to fit the needs of our quantum hedge fund. 
 
 ![Quantum Oracles](/assets/Quantum%20Hedge%20Fund.009.jpeg)
 
