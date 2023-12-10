@@ -15,7 +15,7 @@ Quantum Hedge Fund is an on-chain hedge fund powered by Chainlink that implement
 
 ## Components
 
-![Quantum Oracles](/assets/Quantum%20Hedge%20Fund.005.jpeg)
+![Quantum Oracles](/assets/Quantum%20Hedge%20Fund.006.jpeg)
 
 ### Smart Contracts:
 1. **Vault Contract**: Manages core functions such as deposits, withdrawals, and rebalancing.
@@ -41,11 +41,23 @@ Quantum Hedge Fund is an on-chain hedge fund powered by Chainlink that implement
 
 ## Tech Stack
 
-![Quantum Oracles](/assets/Quantum%20Hedge%20Fund.007.jpeg)
+![Quantum Oracles](/assets/Quantum%20Hedge%20Fund.005.jpeg)
 
-## Architecture
+## Quantum Algorithm
 
-[Architecture and Data Flow Diagram]((https://miro.com/app/board/uXjVNMuQcEs=/?share_link_id=337500651416))
+![Quantum Oracles](/assets/Quantum%20Hedge%20Fund.009.jpeg)
+
+## Links
+
+### Technical Links
+Github: [https://github.com/Quantum-Hedge-Funds](https://github.com/Quantum-Hedge-Funds)
+App: [https://quantum-hedge-fund-app.vercel.app/](https://quantum-hedge-fund-app.vercel.app/)
+API: [https://api-production-5752.up.railway.app/](https://api-production-5752.up.railway.app/)
+
+### Presentation Links
+Video demo: [https://youtu.be/6QXWxM5b-Pg](https://youtu.be/6QXWxM5b-Pg)
+Presentation: [https://bit.ly/quantum-fund-presentation](https://bit.ly/quantum-fund-presentation)
+Architecture Diagram: [https://bit.ly/quantum-fund-diagram](https://bit.ly/quantum-fund-diagram)
 
 ## Getting Started
 Engaging with Quantum Hedge Fund requires familiarity with Solidity, Ethereum blockchain, and smart contract development.
@@ -85,15 +97,16 @@ npx hardhat test
 Interact with the Quantum Hedge Fund contracts through the Hardhat console or by integrating them into a frontend application using Web3.js or Ethers.js.
 
 ## Security
-This project is in the developmental phase. Thoroughly review the code before deploying it in production environments. We strongly recommend a professional security audit.
+This project is in the developmental phase. Thoroughly review the code before deploying it in production environments.
 
 ## License
 This project is licensed under the MIT License. 
 
 ## Contact
-You can contact as at contact@yashgoyal.dev
+You can contact as at contact@yashgoyal.dev, contact@jessicapointing.com
 
 ## Acknowledgements
 - [Chainlink](https://chain.link/)
-- [Uniswap](https://uniswap.org/)
+- [Quickswap](https://quickswap.exchange/#/)
 - [OpenZeppelin](https://openzeppelin.com/)
+- [Qiskit](https://www.ibm.com/quantum/qiskit)
