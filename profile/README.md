@@ -52,7 +52,7 @@ Quantum Hedge Fund is an on-chain hedge fund powered by Chainlink that implement
 ### Technical Links
 - Github: [https://github.com/Quantum-Hedge-Funds](https://github.com/Quantum-Hedge-Funds)
 - App: [https://quantum-hedge-fund-app.vercel.app/](https://quantum-hedge-fund-app.vercel.app/)
-- API: [https://api-production-5752.up.railway.app/](https://api-production-5752.up.railway.app/)
+- API: [https://api-production-5752.up.railway.app/docs](https://api-production-5752.up.railway.app/docs)
 
 ### Presentation Links
 - Video demo: [https://youtu.be/6QXWxM5b-Pg](https://youtu.be/6QXWxM5b-Pg)
